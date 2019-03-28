@@ -1,12 +1,7 @@
 # laravel-promocodes
 
-[![Packagist](https://img.shields.io/packagist/v/zgabievi/promocodes.svg)](https://packagist.org/packages/zgabievi/promocodes)
-[![Packagist](https://img.shields.io/packagist/dt/zgabievi/promocodes.svg)](https://packagist.org/packages/zgabievi/promocodes)
-[![license](https://img.shields.io/github/license/zgabievi/promocodes.svg)](https://packagist.org/packages/zgabievi/promocodes)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/zgabievi/laravel-promocodes/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/zgabievi/laravel-promocodes/?branch=master)
-[![Build Status](https://scrutinizer-ci.com/g/zgabievi/laravel-promocodes/badges/build.png?b=master)](https://scrutinizer-ci.com/g/zgabievi/laravel-promocodes/build-status/master)
 
-> Promocodes generator for [Laravel 5.*](http://laravel.com/). Trying to make the best package in this category. You are welcome to join the party, give me some advices :tada: and make pull requests.
+> Promocodes generator for [Laravel 5.*](http://laravel.com/). Fixing the main package to add more customization and power. Trying to make the best package in this category. You are welcome to join the party, give me some advices :tada: and make pull requests.
 
 ## Table of Contents
 - [Installation](#installation)
